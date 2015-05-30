@@ -1,3 +1,5 @@
 # Pebble_watch_1
 
-i have no idea what i'm doing help
+Basically, I followed the tutorial and added a date function at the top.
+
+Working on new ideas for projects
